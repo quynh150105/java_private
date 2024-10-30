@@ -5,7 +5,7 @@ public class Bai3 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int[] Arrays = new int[5];
-		for(int i = 0; i< Arrays.length; i++) {
+		for(int i = 0; i < Arrays.length; i++) {
 			Arrays[i] = sc.nextInt();
 		}
 		int max1 = Arrays[0];
